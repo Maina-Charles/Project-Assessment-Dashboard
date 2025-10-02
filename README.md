@@ -33,7 +33,7 @@ This project blends **analytics with interactive storytelling**, showcasing how 
 ## 📽️ Demo  
 Check out the demo video included in this repo:  
 
-➡️ [`dashboard_demo.mp4`](./dashboard_demo.mp4)  
+➡️https://github.com/user-attachments/assets/50f6c790-1e4d-464e-94e2-aa00e5d117be
 
 ---
 
@@ -42,19 +42,3 @@ Check out the demo video included in this repo:
 - **Excel / Data Prep** for cleaning and structuring  
 - **Project Analytics & Financial Tracking**  
 - **Data Visualization & Storytelling**  
-
----
-
-## 📂 Repository Contents  
-- `dashboard_demo.mp4` → Demo of the interactive dashboard  
-- (Optional) `.pbix` file → Power BI source file *(if you choose to upload it)*  
-- `README.md` → Project documentation  
-
----
-
-## 🚀 Usage  
-1. Download the `.pbix` file (if uploaded).  
-2. Open with **Power BI Desktop** (latest version recommended).  
-3. Connect your own project dataset or explore the preloaded visuals.  
-
----
